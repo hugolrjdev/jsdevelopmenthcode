@@ -1,2 +1,4 @@
 # jsdevelopmenthcode
-curso pratico de javascript
+
+##Rodar DevDependencias
+npm run hcode
